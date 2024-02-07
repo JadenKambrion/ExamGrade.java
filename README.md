@@ -21,7 +21,7 @@ How many marks did you score in the fourth exam: 87.
 
 How many marks did you score in fifth exam: 93.
 
-The total of your marks:450
+The total of your marks: 450
 
 The total percentage of your marks: 90
 
