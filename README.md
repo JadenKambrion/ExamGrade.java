@@ -8,12 +8,21 @@ If the percentage of the total marks scored is 60 or greater but less than 70, t
 If the percentage of the total marks scored is less than 60, the grade is F.
 
 The Output is as follows:
+
 You are going to enter marks for the five exams. For each of the exams the max marks could be 100
+
 How many marks did you score in the first exam: 100.
+
 How many marks did you score in the second exam: 90.
+
 How many marks did you score in the third exam: 80.
+
 How many marks did you score in the fourth exam: 87.
+
 How many marks did you score in fifth exam: 93.
+
 The total of your marks:450
+
 The total percentage of your marks: 90
+
 You got an A
